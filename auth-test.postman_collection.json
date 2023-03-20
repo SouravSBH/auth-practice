@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "90d5816d-4cb1-43cc-8401-2d33aa0616b3",
+		"name": "auth-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Sign Up",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
